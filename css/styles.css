@@ -1,11 +1,15 @@
 @charset "UTF-8";
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
-
-body {
-	background-image: 
+.background {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    background-image: url("../images/1567666.png");
 }
 
-.container-fluid {
-	
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    border: #FFFFFF;
+    margin-left: 5px;
+    margin-right: 5px;
 }
