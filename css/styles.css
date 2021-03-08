@@ -4,12 +4,17 @@
 .background {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     background-image: url("../images/1567666.png");
+	font-color: #FFFFFF;
 }
 
-h1 {
-    color: #FFFFFF;
+.container-fluid {
+    border: thick solid #FFFFFF;
+	color: #FFFFFF;
     text-align: center;
-    border: #FFFFFF;
-    margin-left: 5px;
-    margin-right: 5px;
+}
+
+.container {
+    border: thin solid #FEFEFE;
+    text-align: center;
+    color: #FFFFFF;
 }
