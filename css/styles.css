@@ -8,13 +8,14 @@
 }
 
 .container-fluid {
-    border: thick solid #FFFFFF;
+    border: thick solid #00000;
 	color: #FFFFFF;
     text-align: center;
 }
 
 .container {
-    border: thin solid #FEFEFE;
+    border: thin solid #00000;
     text-align: center;
-    color: #FFFFFF;
+    color: #00000;
+	background: #82BFF3
 }
