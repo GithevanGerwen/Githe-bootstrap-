@@ -8,22 +8,28 @@
 }
 
 .container-fluid {
-    border: thick solid #00000;
+    border: thick solid #000000;
+	background: #000000;
 	color: #FFFFFF;
     text-align: center;
+	font-size: 100px
 }
 
 .container {
     border: thin solid #FFFFFF;
     text-align: center;
     color: #00000;
-	background: #82BFF3
+	background: #82BFF3;
 }
 
-
-
-
-.carousel {
-    padding-top: 15px;
-    padding-bottom: 15px;
+.btn.btn-primary.btn-lg {
+    background-color: #82BFF3;
+    border: thin solid #020202;
 }
+.jumbotron {
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+    background-color: #000000;
+    color: #FFFFFF;
+	margin: 10px;
+}
+
